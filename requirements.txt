@@ -1,0 +1,10 @@
+sounddevice==0.4.6       # For capturing audio from the microphone
+vosk==0.3.43             # Offline speech recognition
+langchain==0.0.262       # LangChain for creating and managing AI agents
+pydub==0.25.1            # Audio playback and manipulation
+simpleaudio==1.0.4       # For playing audio
+python-dotenv==1.0.0     # Load environment variables from .env file
+serpapi==2.0.0           # Perform Google searches via SerpAPI
+openai                   # To interface with OpenAI's API (if needed for future extensions)
+requests==2.31.0         # To make HTTP requests
+unittest2==1.1.0         # For running built-in tests (if you prefer over unittest)
