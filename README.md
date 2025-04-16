@@ -24,7 +24,7 @@ voice-assistant/
 ### **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/voice-assistant.git
+   git clone https://github.com/AswinKumar1/voice-assistant.git
    cd voice-assistant
    ```
 
